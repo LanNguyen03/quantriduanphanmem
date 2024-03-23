@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316999987874",
+    "project_id": "remakelogin",
+    "storage_bucket": "remakelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316999987874:android:0bdfb184b308996cc59dfb",
+        "android_client_info": {
+          "package_name": "com.example.remake_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316999987874-m3j75aamfa8f5om5ns4bkt07uara1sk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFWQJskKWY-GoF4x1ZNdIOioRVbBgGgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316999987874-m3j75aamfa8f5om5ns4bkt07uara1sk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
